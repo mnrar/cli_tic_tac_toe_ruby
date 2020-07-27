@@ -1,0 +1,3 @@
+I am learning Ruby with help of "The Odin Project"
+This is a mini- project.
+Enjoy...
